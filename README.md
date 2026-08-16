@@ -14,6 +14,17 @@ This is a simple Pharmacy Management System developed in C++ using a Doubly Link
 - Update medicine stock
 - Show out-of-stock medicines
 
+## How It Works
+
+The Pharmacy Management System uses a doubly linked list to manage medicine records.
+
+- Add new medicines with name, quantity, and expiry date.
+- Display all available medicines and their stock status.
+- Search for a medicine by name.
+- Check medicines for expiry.
+- Delete medicine records when needed.
+- Update the quantity of existing medicines
+
 ## Technologies Used
 
 - C++
