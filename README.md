@@ -6,42 +6,55 @@ This is a simple Pharmacy Management System developed in C++ using a Doubly Link
 
 ## Features
 
-- Add new medicines
-- Display all medicine records
-- Search medicine by name
-- Check expired medicines
-- Delete medicine records
-- Update medicine stock
-- Show out-of-stock medicines
+* Add new medicines
+* Display all medicine records
+* Search medicine by name
+* Check expired medicines
+* Delete medicine records
+* Update medicine stock
+* Show out-of-stock medicines
 
 ## How It Works
 
 The Pharmacy Management System uses a doubly linked list to manage medicine records.
 
-- Add new medicines with name, quantity, and expiry date.
-- Display all available medicines and their stock status.
-- Search for a medicine by name.
-- Check medicines for expiry.
-- Delete medicine records when needed.
-- Update the quantity of existing medicines
+* Add new medicines with name, quantity, and expiry date.
+* Display all available medicines and their stock status.
+* Search for a medicine by name.
+* Check medicines for expiry.
+* Delete medicine records when needed.
+* Update the quantity of existing medicines
+
+## \## Future Improvements
+
+## 
+
+## \- Add a graphical user interface.
+
+## \- Add user authentication.
+
+## \- Improve medicine search and filtering.
+
+## \- Add better stock management features.
 
 ## Technologies Used
 
-- C++
-- Object-Oriented Programming (OOP)
-- Doubly Linked List
-- Git
-- GitHub
+* C++
+* Object-Oriented Programming (OOP)
+* Doubly Linked List
+* Git
+* GitHub
 
 ## Data Structure Used
 
-- Doubly Linked List
+* Doubly Linked List
 
 Each medicine is stored as a node containing:
-- Medicine Name
-- Quantity
-- Expiry Month
-- Expiry Year
+
+* Medicine Name
+* Quantity
+* Expiry Month
+* Expiry Year
 
 The linked list allows efficient insertion, deletion, searching, and updating of medicine records.
 
@@ -55,15 +68,16 @@ The linked list allows efficient insertion, deletion, searching, and updating of
 
 ## Future Improvements
 
-- Store medicine records using file handling.
-- Add automatic system date for expiry checking.
-- Prevent duplicate medicine entries.
-- Improve the user interface.
-- Add medicine categories.
-- Generate reports for medicine stock.
+* Store medicine records using file handling.
+* Add automatic system date for expiry checking.
+* Prevent duplicate medicine entries.
+* Improve the user interface.
+* Add medicine categories.
+* Generate reports for medicine stock.
 
 ## Author
 
 **Fatima Batool**
 
 BS Software Engineering Student
+
